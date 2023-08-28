@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **full-stack web development,Java**
 
+- 📙  I am currently studying **Computer science and technology**
+
 - 💬 Ask me about **Html5, Java**
 
 - 📫 How to reach me **anas3elansari@gmail.com**
