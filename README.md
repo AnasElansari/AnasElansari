@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaselansari&label=Profile%20views&color=0e75b6&style=flat" alt="anaselansari" /> </p>
 
-- 🌱 I’m currently learning **full-stack web development,Java**
+- 🌱 I’m currently learning **Cyber-security**
 
-- 📙  I am currently studying **Computer science and technology**
+- 📙  I am currently studying **Msc Cyber-security**
 
-- 💬 Ask me about **Html5, Java**
+- 💬 Ask me about **linux, Packet tracer, Html5, Java**
 
 - 📫 How to reach me **anas3elansari@gmail.com**
 
